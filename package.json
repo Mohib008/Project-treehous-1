@@ -1,0 +1,21 @@
+{
+  "name": "project-treehous-1",
+  "version": "1.0.0",
+  "description": "js Project for test. ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mohib008"
+  },
+  "keywords": [
+    "Mohibml1"
+  ],
+  "author": "Mohib Arsala",
+  "license": "ISC",
+  "dependencies": {
+    "zeppelin-solidity": "^1.12.0"
+  }
+}
